@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.aditrama.counterapp.CounterappApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.229 s - in com.aditrama.counterapp.CounterappApplicationTests
